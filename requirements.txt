@@ -1,0 +1,7 @@
+jupyter
+notebook
+autopep8
+jupyter_contrib_nbextensions
+matplotlib
+numpy
+lmfit
